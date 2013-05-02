@@ -22,13 +22,14 @@ shutil.rmtree('build')
 shutil.rmtree('dist/tcl')
 shutil.copy("C:\Python27\lib\site-packages\pygame\SDL_ttf.dll", "dist/SDL.dll")
 shutil.copy("C:\Python27\lib\site-packages\pygame\libogg-0.dll", "dist/libogg-0.dll")
-print "Zipping..."
-os.system("del buildto/build.zip")
-myzip=zipfile.ZipFile('buildto/build.zip', 'w')
-for i in glob.glob("dist/*.*"):
-    myzip.write(i)
-for i in glob.glob("dist/lvl/*.*"):
-    myzip.write(i)
-for i in glob.glob("dist/image/*.*"):
-    myzip.write(i)
-myzip.close()
+if raw_input("Do Zip? [Y]").upper()=="Y":
+    print "Zipping..."
+    os.system("del buildto/build.zip")
+    myzip=zipfile.ZipFile('buildto/build.zip', 'w')
+    for i in glob.glob("dist/*.*"):
+        myzip.write(i)
+    for i in glob.glob("dist/lvl/*.*"):
+        myzip.write(i)
+    for i in glob.glob("dist/image/*.*"):
+        myzip.write(i)
+    myzip.close()
