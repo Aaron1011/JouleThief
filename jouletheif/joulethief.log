@@ -108,3 +108,15 @@
 2013-05-02 08:31:25.308000	[DEBUG]: Loading Level
 2013-05-02 08:31:25.310000	[DEBUG]: Excecuting: import lvlexec as lvl
 2013-05-02 08:31:25.317000	[DEBUG]: Passed assertions
+2013-05-02 08:41:24.402000	[DEBUG]: ==========================SESS_BR8K=============================
+2013-05-02 08:41:24.405000	[*INFO]: Loading
+2013-05-02 08:41:24.407000	[DEBUG]: Logging Initilized
+2013-05-02 08:41:24.410000	[DEBUG]: Importing Pygame
+2013-05-02 08:41:24.413000	[DEBUG]: Init Pygame
+2013-05-02 08:41:37.848000	[DEBUG]: Opening Window
+2013-05-02 08:41:37.884000	[*INFO]: Starting!
+2013-05-02 08:41:37.886000	[DEBUG]: Creating Player
+2013-05-02 08:41:37.890000	[DEBUG]: Setting Repeat
+2013-05-02 08:41:37.892000	[DEBUG]: Loading Level
+2013-05-02 08:41:37.895000	[DEBUG]: Excecuting: import lvl_deco as lvl
+2013-05-02 08:41:37.899000	[DEBUG]: Passed assertions

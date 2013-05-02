@@ -27,3 +27,9 @@ local.properties
 .buildpath
 
 .py[cod]
+
+joulethief/build/**/*
+joulethief/dist/**/*
+**/dist
+**/build
+*.pyc
