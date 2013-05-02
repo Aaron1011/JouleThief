@@ -33,3 +33,5 @@ joulethief/dist/**/*
 **/dist
 **/build
 *.pyc
+**/buildto
+joulethief/buildto/**
