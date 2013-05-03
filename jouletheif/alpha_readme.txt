@@ -1,11 +1,5 @@
-Hey! Thanks for alpha testing!
-When it first starts up, it will ask you for a level, enter one of the following:
-1
-2
-_deco
-telport
-_cleean
-spike
-exec
+Hey! Thanks for testing!
+Please run joulethief.exe, and try to break it.
+If you find a bug, report it to https://github.com/602p/JouleThief/issues thanks!
 
-And have fun! (arrow keys)
+(find me at louis@goessling.com )

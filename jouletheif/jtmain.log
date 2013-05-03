@@ -231,3 +231,23 @@
 2013-05-03 10:50:27.992000	[DEBUG]: Button Initilized
 2013-05-03 10:50:32.079000	[*INFO]: Starting Main Game (Level 1)
 2013-05-03 10:50:32.085000	[*DUMP]: python jtengine.py 1
+2013-05-03 13:13:47.556000	[*INFO]: Starting JTMain
+2013-05-03 13:13:47.560000	[DEBUG]: init pygame
+2013-05-03 13:13:47.772000	[DEBUG]: inited
+2013-05-03 13:13:47.776000	[DEBUG]: pop screen
+2013-05-03 13:13:47.813000	[DEBUG]: popped
+2013-05-03 13:13:47.817000	[DEBUG]: settitle
+2013-05-03 13:13:47.820000	[DEBUG]: set. making button
+2013-05-03 13:13:47.825000	[DEBUG]: Button Initilized
+2013-05-03 13:13:59.162000	[*INFO]: Starting Main Game (Level 1)
+2013-05-03 13:13:59.166000	[*DUMP]: python jtengine.py 1
+2013-05-03 15:04:20.436000	[*INFO]: Starting JTMain
+2013-05-03 15:04:20.440000	[DEBUG]: init pygame
+2013-05-03 15:04:20.647000	[DEBUG]: inited
+2013-05-03 15:04:20.651000	[DEBUG]: pop screen
+2013-05-03 15:04:20.694000	[DEBUG]: popped
+2013-05-03 15:04:20.697000	[DEBUG]: settitle
+2013-05-03 15:04:20.701000	[DEBUG]: set. making button
+2013-05-03 15:04:20.708000	[DEBUG]: Button Initilized
+2013-05-03 15:04:21.861000	[*INFO]: Starting Levls select
+2013-05-03 15:04:21.865000	[*DUMP]: python jtlevelselect.py

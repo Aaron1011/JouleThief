@@ -5,18 +5,19 @@ def noCallBack():
     print "No Callback Set!"
 
 class Button(pygame.sprite.Sprite):
-    def __init__(self, x, y, xsize, ysize, text, callback=noCallBack, textsize=20, tcolor=(0,255,0), ocolor=(0,0,255)):
+    def __init__(self, x, y, text, callback=noCallBack, textsize=20, tcolor=(0,255,0), ocolor=(0,0,255)):
         #self.rect=pygame.rect.Rect(x,y,xsize,ysize)
         #print "making font"
         textf=pygame.font.Font("freesansbold.ttf", textsize)#load font, use to make image, use pygame.draw to add rect
         #print "made"
         #print "making image"
-        self.image=pygame.surface.Surface((xsize, ysize))
+        s=textf.size(text)
+        self.image=pygame.surface.Surface((s[0]+5, s[1]+5))
         #print "drawing text"
         #print "surface..."
         surf=textf.render(text, False, tcolor)
         #print "sim size..."
-        s=textf.size(text)
+        
         #print "gen rect..."
         r=pygame.rect.Rect(0,0,s[0],s[1])
         #print "blitting"
@@ -36,4 +37,11 @@ class Button(pygame.sprite.Sprite):
             self.calledback=True
     def draw(self, screen):
         screen.blit(self.image, self.rect)
-        
+class MButton(Button):
+    cup=0
+    def update(self):
+        self.cup += 1
+        if self.cup==200:
+            self.calledback=False
+            self.cup=0
+        Button.update(self)

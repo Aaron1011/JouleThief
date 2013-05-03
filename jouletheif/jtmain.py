@@ -33,6 +33,13 @@ def playButtonCallback():
     os.system(call.replace("%", "jtengine")+" 1")
     raise SystemExit
 
+def selButtonCallback():
+    pygame.quit()
+    info("Starting Levls select")
+    dump(call.replace("%", "jtlevelselect"))
+    os.system(call.replace("%", "jtlevelselect"))
+    raise SystemExit
+
 info("Starting JTMain")
 debug("init pygame")
 pygame.init()
@@ -44,7 +51,8 @@ debug("settitle")
 pygame.display.set_caption(wintitle)
 debug("set. making button")
 
-play_button=gui.Button(100,100,50,25, "Play!", playButtonCallback)
+play_button=gui.Button(100,100, "Play!", playButtonCallback)
+selc_button=gui.Button(100,175, "Select!", selButtonCallback)
 print "BACKBACKBACK"
 debug("Button Initilized")
 
@@ -56,4 +64,6 @@ while 1:
     screen.fill((0,0,0))
     play_button.update()
     play_button.draw(screen)
+    selc_button.update()
+    selc_button.draw(screen)
     pygame.display.update()

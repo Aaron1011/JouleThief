@@ -1,4 +1,10 @@
 import os, shutil, zipfile, glob
+f=open('buildcount.txt', 'r')
+bcount=int(f.readline().strip())+1
+f.close()
+f=open('buildcount.txt', 'w')
+f.write(str(bcount))
+f.close()
 folder = 'dist'
 print "Cleaning..."
 for the_file in os.listdir(folder):
@@ -43,6 +49,7 @@ for i in needed: shutil.copy("buildreq/"+i, "dist/")
 print "Editing config..."
 f=open("dist/config.py",'a')
 f.write('call="%"')
+f.write("\nwintitle += ' (Build "+str(bcount)+")'")
 f.close()
 print "Copying engine into dist dir"
 shutil.copy("distengine/jtengine.exe", "dist/jtengine.exe")

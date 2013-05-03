@@ -1,0 +1,385 @@
+2013-05-03 14:40:28.069000	[*INFO]: Starting JTLevelSelect
+2013-05-03 14:40:28.072000	[DEBUG]: init pygame
+2013-05-03 14:40:28.286000	[DEBUG]: inited
+2013-05-03 14:40:28.288000	[DEBUG]: pop screen
+2013-05-03 14:40:28.332000	[DEBUG]: popped
+2013-05-03 14:40:28.334000	[DEBUG]: settitle
+2013-05-03 14:40:28.336000	[DEBUG]: set. making button
+2013-05-03 14:40:28.340000	[DEBUG]: Button Initilized
+2013-05-03 14:40:29.662000	[*INFO]: Starting Main Game (Level 1)
+2013-05-03 14:40:29.665000	[*DUMP]: python jtengine.py 1
+2013-05-03 14:42:18.450000	[*INFO]: Starting JTLevelSelect
+2013-05-03 14:42:18.453000	[DEBUG]: init pygame
+2013-05-03 14:42:18.658000	[DEBUG]: inited
+2013-05-03 14:42:18.661000	[DEBUG]: pop screen
+2013-05-03 14:42:18.698000	[DEBUG]: popped
+2013-05-03 14:42:18.701000	[DEBUG]: settitle
+2013-05-03 14:42:18.702000	[DEBUG]: set. making button
+2013-05-03 14:42:27.980000	[*INFO]: Starting JTLevelSelect
+2013-05-03 14:42:27.984000	[DEBUG]: init pygame
+2013-05-03 14:42:28.350000	[DEBUG]: inited
+2013-05-03 14:42:28.353000	[DEBUG]: pop screen
+2013-05-03 14:42:28.443000	[DEBUG]: popped
+2013-05-03 14:42:28.447000	[DEBUG]: settitle
+2013-05-03 14:42:28.455000	[DEBUG]: set. making button
+2013-05-03 14:42:28.458000	[DEBUG]: Button Initilized
+2013-05-03 14:42:30.536000	[*INFO]: Starting Main Game (Level 1)
+2013-05-03 14:42:30.540000	[*DUMP]: python jtengine.py 1
+2013-05-03 14:48:29.526000	[*INFO]: Starting JTLevelSelect
+2013-05-03 14:48:29.530000	[DEBUG]: init pygame
+2013-05-03 14:48:29.743000	[DEBUG]: inited
+2013-05-03 14:48:29.746000	[DEBUG]: pop screen
+2013-05-03 14:48:29.789000	[DEBUG]: popped
+2013-05-03 14:48:29.792000	[DEBUG]: settitle
+2013-05-03 14:48:29.795000	[DEBUG]: set. making button
+2013-05-03 14:48:29.797000	[*INFO]: Loading Level List
+2013-05-03 14:48:29.799000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 14:48:29.803000	[DEBUG]: Button Initilized
+2013-05-03 14:50:06.547000	[*INFO]: Starting JTLevelSelect
+2013-05-03 14:50:06.550000	[DEBUG]: init pygame
+2013-05-03 14:50:06.758000	[DEBUG]: inited
+2013-05-03 14:50:06.782000	[DEBUG]: pop screen
+2013-05-03 14:50:06.821000	[DEBUG]: popped
+2013-05-03 14:50:06.827000	[DEBUG]: settitle
+2013-05-03 14:50:06.832000	[DEBUG]: set. making button
+2013-05-03 14:50:06.834000	[*INFO]: Loading Level List
+2013-05-03 14:50:06.836000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 14:50:06.838000	[DEBUG]: Filtering list
+2013-05-03 14:50:06.841000	[DEBUG]: list2:['1', '2', 'exec', 'spike', 'telport', '_cleean', '_deco']
+2013-05-03 14:50:06.845000	[DEBUG]: Button Initilized
+2013-05-03 14:58:03.722000	[*INFO]: Starting JTLevelSelect
+2013-05-03 14:58:03.725000	[DEBUG]: init pygame
+2013-05-03 14:58:03.933000	[DEBUG]: inited
+2013-05-03 14:58:03.936000	[DEBUG]: pop screen
+2013-05-03 14:58:03.976000	[DEBUG]: popped
+2013-05-03 14:58:03.979000	[DEBUG]: settitle
+2013-05-03 14:58:03.982000	[DEBUG]: set. making button
+2013-05-03 14:58:03.985000	[*INFO]: Loading Level List
+2013-05-03 14:58:03.988000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 14:58:03.990000	[DEBUG]: Filtering list
+2013-05-03 14:58:03.992000	[DEBUG]: list2:['1', '2', 'exec', 'spike', 'telport', '_cleean', '_deco']
+2013-05-03 14:58:03.996000	[DEBUG]: Button Initilized
+2013-05-03 14:58:05.594000	[DEBUG]: right clicked
+2013-05-03 14:58:33.365000	[*INFO]: Starting JTLevelSelect
+2013-05-03 14:58:33.369000	[DEBUG]: init pygame
+2013-05-03 14:58:33.585000	[DEBUG]: inited
+2013-05-03 14:58:33.589000	[DEBUG]: pop screen
+2013-05-03 14:58:33.629000	[DEBUG]: popped
+2013-05-03 14:58:33.631000	[DEBUG]: settitle
+2013-05-03 14:58:33.634000	[DEBUG]: set. making button
+2013-05-03 14:58:33.638000	[*INFO]: Loading Level List
+2013-05-03 14:58:33.640000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 14:58:33.643000	[DEBUG]: Filtering list
+2013-05-03 14:58:33.646000	[DEBUG]: list2:['1', '2', 'exec', 'spike', 'telport', '_cleean', '_deco']
+2013-05-03 14:58:33.652000	[DEBUG]: Button Initilized
+2013-05-03 14:58:34.643000	[DEBUG]: right clicked
+2013-05-03 14:58:34.647000	[DEBUG]: Moving to 1
+2013-05-03 14:58:37.584000	[DEBUG]: left clicked
+2013-05-03 14:58:37.589000	[DEBUG]: Moving to 0
+2013-05-03 14:58:41.868000	[DEBUG]: selected level 1
+2013-05-03 14:58:42.183000	[*INFO]: Starting Main Game Engine
+2013-05-03 14:58:42.187000	[*DUMP]: python jtengine.py 1
+2013-05-03 14:58:45.408000	[*INFO]: Starting JTLevelSelect
+2013-05-03 14:58:45.412000	[DEBUG]: init pygame
+2013-05-03 14:58:45.618000	[DEBUG]: inited
+2013-05-03 14:58:45.622000	[DEBUG]: pop screen
+2013-05-03 14:58:45.660000	[DEBUG]: popped
+2013-05-03 14:58:45.662000	[DEBUG]: settitle
+2013-05-03 14:58:45.666000	[DEBUG]: set. making button
+2013-05-03 14:58:45.668000	[*INFO]: Loading Level List
+2013-05-03 14:58:45.672000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 14:58:45.675000	[DEBUG]: Filtering list
+2013-05-03 14:58:45.678000	[DEBUG]: list2:['1', '2', 'exec', 'spike', 'telport', '_cleean', '_deco']
+2013-05-03 14:58:45.683000	[DEBUG]: Button Initilized
+2013-05-03 14:58:46.915000	[DEBUG]: right clicked
+2013-05-03 14:58:46.919000	[DEBUG]: Moving to 1
+2013-05-03 14:58:47.961000	[DEBUG]: selected level 2
+2013-05-03 14:58:48.266000	[*INFO]: Starting Main Game Engine
+2013-05-03 14:58:48.274000	[*DUMP]: python jtengine.py 2
+2013-05-03 14:59:06.123000	[*INFO]: Starting JTLevelSelect
+2013-05-03 14:59:06.128000	[DEBUG]: init pygame
+2013-05-03 14:59:06.332000	[DEBUG]: inited
+2013-05-03 14:59:06.336000	[DEBUG]: pop screen
+2013-05-03 14:59:06.381000	[DEBUG]: popped
+2013-05-03 14:59:06.384000	[DEBUG]: settitle
+2013-05-03 14:59:06.387000	[DEBUG]: set. making button
+2013-05-03 14:59:06.390000	[*INFO]: Loading Level List
+2013-05-03 14:59:06.393000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvl2.pyc', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 14:59:06.395000	[DEBUG]: Filtering list
+2013-05-03 14:59:06.399000	[DEBUG]: list2:['1', '2', 'exec', 'spike', 'telport', '_cleean', '_deco']
+2013-05-03 14:59:06.404000	[DEBUG]: Button Initilized
+2013-05-03 14:59:07.671000	[DEBUG]: right clicked
+2013-05-03 14:59:07.676000	[DEBUG]: Moving to 1
+2013-05-03 14:59:14.146000	[DEBUG]: left clicked
+2013-05-03 14:59:14.150000	[DEBUG]: Moving to 0
+2013-05-03 14:59:53.297000	[*INFO]: Starting JTLevelSelect
+2013-05-03 14:59:53.301000	[DEBUG]: init pygame
+2013-05-03 14:59:53.508000	[DEBUG]: inited
+2013-05-03 14:59:53.511000	[DEBUG]: pop screen
+2013-05-03 14:59:53.550000	[DEBUG]: popped
+2013-05-03 14:59:53.553000	[DEBUG]: settitle
+2013-05-03 14:59:53.556000	[DEBUG]: set. making button
+2013-05-03 14:59:53.559000	[*INFO]: Loading Level List
+2013-05-03 14:59:53.562000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvl2.pyc', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 14:59:53.565000	[DEBUG]: Filtering list
+2013-05-03 14:59:53.568000	[DEBUG]: list2:['1', '2', 'exec', 'spike', 'telport', '_cleean', '_deco']
+2013-05-03 14:59:53.572000	[DEBUG]: Button Initilized
+2013-05-03 14:59:54.433000	[DEBUG]: right clicked
+2013-05-03 14:59:54.437000	[DEBUG]: Moving to 1
+2013-05-03 14:59:57.117000	[DEBUG]: left clicked
+2013-05-03 14:59:57.121000	[DEBUG]: Moving to 0
+2013-05-03 15:00:10.602000	[*INFO]: Starting JTLevelSelect
+2013-05-03 15:00:10.607000	[DEBUG]: init pygame
+2013-05-03 15:00:10.818000	[DEBUG]: inited
+2013-05-03 15:00:10.821000	[DEBUG]: pop screen
+2013-05-03 15:00:10.862000	[DEBUG]: popped
+2013-05-03 15:00:10.865000	[DEBUG]: settitle
+2013-05-03 15:00:10.869000	[DEBUG]: set. making button
+2013-05-03 15:00:10.872000	[*INFO]: Loading Level List
+2013-05-03 15:00:10.875000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvl2.pyc', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 15:00:10.878000	[DEBUG]: Filtering list
+2013-05-03 15:00:10.881000	[DEBUG]: list2:['1', '2', 'exec', 'spike', 'telport', '_cleean', '_deco']
+2013-05-03 15:00:10.888000	[DEBUG]: Button Initilized
+2013-05-03 15:00:11.832000	[DEBUG]: right clicked
+2013-05-03 15:00:11.836000	[DEBUG]: Moving to 1
+2013-05-03 15:00:11.841000	[DEBUG]: right clicked
+2013-05-03 15:00:11.844000	[DEBUG]: Moving to 2
+2013-05-03 15:00:11.848000	[DEBUG]: right clicked
+2013-05-03 15:00:11.852000	[DEBUG]: Moving to 3
+2013-05-03 15:00:11.857000	[DEBUG]: right clicked
+2013-05-03 15:00:11.860000	[DEBUG]: Moving to 4
+2013-05-03 15:00:11.865000	[DEBUG]: right clicked
+2013-05-03 15:00:11.868000	[DEBUG]: Moving to 5
+2013-05-03 15:00:11.873000	[DEBUG]: right clicked
+2013-05-03 15:00:11.877000	[DEBUG]: Moving to 6
+2013-05-03 15:00:11.882000	[DEBUG]: right clicked
+2013-05-03 15:00:11.886000	[DEBUG]: Moving to 7
+2013-05-03 15:00:19.246000	[*INFO]: Starting JTLevelSelect
+2013-05-03 15:00:19.251000	[DEBUG]: init pygame
+2013-05-03 15:00:19.462000	[DEBUG]: inited
+2013-05-03 15:00:19.466000	[DEBUG]: pop screen
+2013-05-03 15:00:19.504000	[DEBUG]: popped
+2013-05-03 15:00:19.507000	[DEBUG]: settitle
+2013-05-03 15:00:19.511000	[DEBUG]: set. making button
+2013-05-03 15:00:19.514000	[*INFO]: Loading Level List
+2013-05-03 15:00:19.517000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvl2.pyc', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 15:00:19.520000	[DEBUG]: Filtering list
+2013-05-03 15:00:19.524000	[DEBUG]: list2:['1', '2', 'exec', 'spike', 'telport', '_cleean', '_deco']
+2013-05-03 15:00:19.529000	[DEBUG]: Button Initilized
+2013-05-03 15:00:21.526000	[DEBUG]: right clicked
+2013-05-03 15:00:21.530000	[DEBUG]: Moving to 1
+2013-05-03 15:00:21.537000	[DEBUG]: right clicked
+2013-05-03 15:00:21.540000	[DEBUG]: Moving to 2
+2013-05-03 15:00:21.545000	[DEBUG]: right clicked
+2013-05-03 15:00:21.548000	[DEBUG]: Moving to 3
+2013-05-03 15:00:21.553000	[DEBUG]: right clicked
+2013-05-03 15:00:21.557000	[DEBUG]: Moving to 4
+2013-05-03 15:00:21.562000	[DEBUG]: right clicked
+2013-05-03 15:00:21.566000	[DEBUG]: Moving to 5
+2013-05-03 15:00:21.571000	[DEBUG]: right clicked
+2013-05-03 15:00:21.574000	[DEBUG]: Moving to 6
+2013-05-03 15:00:21.577000	[DEBUG]: selected level _deco
+2013-05-03 15:00:21.922000	[*INFO]: Starting Main Game Engine
+2013-05-03 15:00:21.932000	[*DUMP]: python jtengine.py _deco
+2013-05-03 15:01:10.858000	[*INFO]: Starting JTLevelSelect
+2013-05-03 15:01:10.863000	[DEBUG]: init pygame
+2013-05-03 15:01:11.073000	[DEBUG]: inited
+2013-05-03 15:01:11.082000	[DEBUG]: pop screen
+2013-05-03 15:01:11.135000	[DEBUG]: popped
+2013-05-03 15:01:11.146000	[DEBUG]: settitle
+2013-05-03 15:01:11.152000	[DEBUG]: set. making button
+2013-05-03 15:01:11.157000	[*INFO]: Loading Level List
+2013-05-03 15:01:11.160000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvl2.pyc', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 15:01:11.169000	[DEBUG]: Filtering list
+2013-05-03 15:01:11.172000	[DEBUG]: list2:['1', '2', 'exec', 'spike', 'telport', '_cleean', '_deco']
+2013-05-03 15:01:11.181000	[DEBUG]: Button Initilized
+2013-05-03 15:01:12.683000	[DEBUG]: right clicked
+2013-05-03 15:01:12.688000	[DEBUG]: Moving to 1
+2013-05-03 15:01:18.481000	[DEBUG]: left clicked
+2013-05-03 15:01:18.485000	[DEBUG]: Moving to 0
+2013-05-03 15:01:31.685000	[*INFO]: Starting JTLevelSelect
+2013-05-03 15:01:31.689000	[DEBUG]: init pygame
+2013-05-03 15:01:31.898000	[DEBUG]: inited
+2013-05-03 15:01:31.902000	[DEBUG]: pop screen
+2013-05-03 15:01:31.940000	[DEBUG]: popped
+2013-05-03 15:01:31.942000	[DEBUG]: settitle
+2013-05-03 15:01:31.946000	[DEBUG]: set. making button
+2013-05-03 15:01:31.949000	[*INFO]: Loading Level List
+2013-05-03 15:01:31.952000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvl2.pyc', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 15:01:31.954000	[DEBUG]: Filtering list
+2013-05-03 15:01:31.957000	[DEBUG]: list2:['1', '2', 'exec', 'spike', 'telport', '_cleean', '_deco']
+2013-05-03 15:01:31.962000	[DEBUG]: Button Initilized
+2013-05-03 15:01:33.143000	[DEBUG]: right clicked
+2013-05-03 15:01:33.147000	[DEBUG]: Moving to 1
+2013-05-03 15:01:33.165000	[DEBUG]: right clicked
+2013-05-03 15:01:33.169000	[DEBUG]: Moving to 2
+2013-05-03 15:01:33.201000	[DEBUG]: right clicked
+2013-05-03 15:01:33.206000	[DEBUG]: Moving to 3
+2013-05-03 15:01:34.584000	[DEBUG]: right clicked
+2013-05-03 15:01:34.588000	[DEBUG]: Moving to 4
+2013-05-03 15:01:34.603000	[DEBUG]: right clicked
+2013-05-03 15:01:34.608000	[DEBUG]: Moving to 5
+2013-05-03 15:01:35.580000	[DEBUG]: right clicked
+2013-05-03 15:01:35.584000	[DEBUG]: Moving to 6
+2013-05-03 15:01:35.607000	[DEBUG]: right clicked
+2013-05-03 15:01:35.611000	[DEBUG]: Moving to 7
+2013-05-03 15:01:44.162000	[*INFO]: Starting JTLevelSelect
+2013-05-03 15:01:44.171000	[DEBUG]: init pygame
+2013-05-03 15:01:44.432000	[DEBUG]: inited
+2013-05-03 15:01:44.436000	[DEBUG]: pop screen
+2013-05-03 15:01:44.474000	[DEBUG]: popped
+2013-05-03 15:01:44.477000	[DEBUG]: settitle
+2013-05-03 15:01:44.480000	[DEBUG]: set. making button
+2013-05-03 15:01:44.483000	[*INFO]: Loading Level List
+2013-05-03 15:01:44.485000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvl2.pyc', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 15:01:44.487000	[DEBUG]: Filtering list
+2013-05-03 15:01:44.489000	[DEBUG]: list2:['1', '2', 'exec', 'spike', 'telport', '_cleean', '_deco']
+2013-05-03 15:01:44.494000	[DEBUG]: Button Initilized
+2013-05-03 15:01:45.588000	[DEBUG]: right clicked
+2013-05-03 15:01:45.591000	[DEBUG]: Moving to 1
+2013-05-03 15:01:46.104000	[DEBUG]: right clicked
+2013-05-03 15:01:46.108000	[DEBUG]: Moving to 2
+2013-05-03 15:01:46.131000	[DEBUG]: right clicked
+2013-05-03 15:01:46.133000	[DEBUG]: Moving to 3
+2013-05-03 15:01:46.212000	[DEBUG]: right clicked
+2013-05-03 15:01:46.216000	[DEBUG]: Moving to 4
+2013-05-03 15:01:47.413000	[DEBUG]: right clicked
+2013-05-03 15:01:47.417000	[DEBUG]: Moving to 5
+2013-05-03 15:01:48.494000	[DEBUG]: left clicked
+2013-05-03 15:01:48.498000	[DEBUG]: Moving to 4
+2013-05-03 15:01:48.815000	[DEBUG]: left clicked
+2013-05-03 15:01:48.819000	[DEBUG]: Moving to 3
+2013-05-03 15:01:49.308000	[DEBUG]: left clicked
+2013-05-03 15:01:49.311000	[DEBUG]: Moving to 2
+2013-05-03 15:01:49.340000	[DEBUG]: left clicked
+2013-05-03 15:01:49.343000	[DEBUG]: Moving to 1
+2013-05-03 15:01:50.477000	[DEBUG]: right clicked
+2013-05-03 15:01:50.480000	[DEBUG]: Moving to 2
+2013-05-03 15:01:50.545000	[DEBUG]: right clicked
+2013-05-03 15:01:50.548000	[DEBUG]: Moving to 3
+2013-05-03 15:01:51.634000	[DEBUG]: left clicked
+2013-05-03 15:01:51.637000	[DEBUG]: Moving to 2
+2013-05-03 15:01:51.676000	[DEBUG]: left clicked
+2013-05-03 15:01:51.679000	[DEBUG]: Moving to 1
+2013-05-03 15:02:03.952000	[*INFO]: Starting JTLevelSelect
+2013-05-03 15:02:03.957000	[DEBUG]: init pygame
+2013-05-03 15:02:04.180000	[DEBUG]: inited
+2013-05-03 15:02:04.185000	[DEBUG]: pop screen
+2013-05-03 15:02:04.224000	[DEBUG]: popped
+2013-05-03 15:02:04.228000	[DEBUG]: settitle
+2013-05-03 15:02:04.232000	[DEBUG]: set. making button
+2013-05-03 15:02:04.236000	[*INFO]: Loading Level List
+2013-05-03 15:02:04.239000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvl2.pyc', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 15:02:04.242000	[DEBUG]: Filtering list
+2013-05-03 15:02:04.244000	[DEBUG]: list2:['1', '2', 'exec', 'spike', 'telport', '_cleean', '_deco']
+2013-05-03 15:02:04.249000	[DEBUG]: Button Initilized
+2013-05-03 15:02:05.353000	[DEBUG]: right clicked
+2013-05-03 15:02:05.357000	[DEBUG]: Moving to 1
+2013-05-03 15:02:05.382000	[DEBUG]: right clicked
+2013-05-03 15:02:05.386000	[DEBUG]: Moving to 2
+2013-05-03 15:02:06.511000	[DEBUG]: left clicked
+2013-05-03 15:02:06.515000	[DEBUG]: Moving to 1
+2013-05-03 15:02:06.561000	[DEBUG]: left clicked
+2013-05-03 15:02:06.565000	[DEBUG]: Moving to 0
+2013-05-03 15:02:08.184000	[DEBUG]: right clicked
+2013-05-03 15:02:08.188000	[DEBUG]: Moving to 1
+2013-05-03 15:02:08.253000	[DEBUG]: right clicked
+2013-05-03 15:02:08.256000	[DEBUG]: Moving to 2
+2013-05-03 15:02:08.369000	[DEBUG]: right clicked
+2013-05-03 15:02:08.376000	[DEBUG]: Moving to 3
+2013-05-03 15:02:08.521000	[DEBUG]: right clicked
+2013-05-03 15:02:08.526000	[DEBUG]: Moving to 4
+2013-05-03 15:02:08.643000	[DEBUG]: right clicked
+2013-05-03 15:02:08.649000	[DEBUG]: Moving to 5
+2013-05-03 15:02:08.766000	[DEBUG]: right clicked
+2013-05-03 15:02:08.771000	[DEBUG]: Moving to 6
+2013-05-03 15:02:08.886000	[DEBUG]: right clicked
+2013-05-03 15:02:09.001000	[DEBUG]: right clicked
+2013-05-03 15:02:09.121000	[DEBUG]: right clicked
+2013-05-03 15:02:09.246000	[DEBUG]: right clicked
+2013-05-03 15:02:09.933000	[DEBUG]: selected level _deco
+2013-05-03 15:02:10.171000	[*INFO]: Starting Main Game Engine
+2013-05-03 15:02:10.177000	[*DUMP]: python jtengine.py _deco
+2013-05-03 15:02:19.653000	[*INFO]: Starting JTLevelSelect
+2013-05-03 15:02:19.659000	[DEBUG]: init pygame
+2013-05-03 15:02:19.877000	[DEBUG]: inited
+2013-05-03 15:02:19.883000	[DEBUG]: pop screen
+2013-05-03 15:02:19.926000	[DEBUG]: popped
+2013-05-03 15:02:19.930000	[DEBUG]: settitle
+2013-05-03 15:02:19.935000	[DEBUG]: set. making button
+2013-05-03 15:02:19.938000	[*INFO]: Loading Level List
+2013-05-03 15:02:19.941000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvl2.pyc', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 15:02:19.944000	[DEBUG]: Filtering list
+2013-05-03 15:02:19.946000	[DEBUG]: list2:['1', '2', 'exec', 'spike', 'telport', '_cleean', '_deco']
+2013-05-03 15:02:19.951000	[DEBUG]: Button Initilized
+2013-05-03 15:02:20.839000	[DEBUG]: right clicked
+2013-05-03 15:02:20.849000	[DEBUG]: Moving to 1
+2013-05-03 15:02:21.750000	[DEBUG]: right clicked
+2013-05-03 15:02:21.764000	[DEBUG]: Moving to 2
+2013-05-03 15:02:22.575000	[DEBUG]: right clicked
+2013-05-03 15:02:22.585000	[DEBUG]: Moving to 3
+2013-05-03 15:02:23.228000	[DEBUG]: right clicked
+2013-05-03 15:02:23.238000	[DEBUG]: Moving to 4
+2013-05-03 15:02:23.561000	[DEBUG]: right clicked
+2013-05-03 15:02:23.568000	[DEBUG]: Moving to 5
+2013-05-03 15:02:23.929000	[DEBUG]: right clicked
+2013-05-03 15:02:23.939000	[DEBUG]: Moving to 6
+2013-05-03 15:02:24.275000	[DEBUG]: right clicked
+2013-05-03 15:02:24.364000	[DEBUG]: right clicked
+2013-05-03 15:02:24.669000	[DEBUG]: right clicked
+2013-05-03 15:02:24.981000	[DEBUG]: right clicked
+2013-05-03 15:02:25.282000	[DEBUG]: right clicked
+2013-05-03 15:02:26.157000	[DEBUG]: left clicked
+2013-05-03 15:02:26.164000	[DEBUG]: Moving to 5
+2013-05-03 15:02:26.198000	[DEBUG]: left clicked
+2013-05-03 15:02:26.206000	[DEBUG]: Moving to 4
+2013-05-03 15:02:26.506000	[DEBUG]: left clicked
+2013-05-03 15:02:26.510000	[DEBUG]: Moving to 3
+2013-05-03 15:02:26.807000	[DEBUG]: left clicked
+2013-05-03 15:02:26.812000	[DEBUG]: Moving to 2
+2013-05-03 15:02:27.102000	[DEBUG]: left clicked
+2013-05-03 15:02:27.106000	[DEBUG]: Moving to 1
+2013-05-03 15:02:27.382000	[DEBUG]: left clicked
+2013-05-03 15:02:27.386000	[DEBUG]: Moving to 0
+2013-05-03 15:03:12.535000	[*INFO]: Starting JTLevelSelect
+2013-05-03 15:03:12.540000	[DEBUG]: init pygame
+2013-05-03 15:03:12.743000	[DEBUG]: inited
+2013-05-03 15:03:12.756000	[DEBUG]: pop screen
+2013-05-03 15:03:12.817000	[DEBUG]: popped
+2013-05-03 15:03:12.822000	[DEBUG]: settitle
+2013-05-03 15:03:12.830000	[DEBUG]: set. making button
+2013-05-03 15:03:12.835000	[*INFO]: Loading Level List
+2013-05-03 15:03:12.839000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvl2.pyc', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 15:03:12.843000	[DEBUG]: Filtering list
+2013-05-03 15:03:12.848000	[DEBUG]: list2:['1', '2', 'exec', 'spike', 'telport', '_cleean', '_deco']
+2013-05-03 15:03:12.855000	[DEBUG]: Button Initilized
+2013-05-03 15:03:15.667000	[DEBUG]: right clicked
+2013-05-03 15:03:15.671000	[DEBUG]: Moving to 1
+2013-05-03 15:03:16.059000	[DEBUG]: right clicked
+2013-05-03 15:03:16.065000	[DEBUG]: Moving to 2
+2013-05-03 15:03:16.515000	[DEBUG]: right clicked
+2013-05-03 15:03:16.519000	[DEBUG]: Moving to 3
+2013-05-03 15:03:16.909000	[DEBUG]: right clicked
+2013-05-03 15:03:16.914000	[DEBUG]: Moving to 4
+2013-05-03 15:03:18.128000	[DEBUG]: selected level telport
+2013-05-03 15:03:18.421000	[*INFO]: Starting Main Game Engine
+2013-05-03 15:03:18.428000	[*DUMP]: python jtengine.py telport
+2013-05-03 15:04:22.088000	[*INFO]: Starting JTLevelSelect
+2013-05-03 15:04:22.093000	[DEBUG]: init pygame
+2013-05-03 15:04:22.300000	[DEBUG]: inited
+2013-05-03 15:04:22.305000	[DEBUG]: pop screen
+2013-05-03 15:04:22.342000	[DEBUG]: popped
+2013-05-03 15:04:22.346000	[DEBUG]: settitle
+2013-05-03 15:04:22.350000	[DEBUG]: set. making button
+2013-05-03 15:04:22.353000	[*INFO]: Loading Level List
+2013-05-03 15:04:22.357000	[DEBUG]: list: ['lvl1.py', 'lvl1.pyc', 'lvl2.py', 'lvl2.pyc', 'lvlexec.py', 'lvlexec.pyc', 'lvlspike.py', 'lvlspike.pyc', 'lvltelport.py', 'lvltelport.pyc', 'lvl_cleean.py', 'lvl_deco.py', 'lvl_deco.pyc']
+2013-05-03 15:04:22.361000	[DEBUG]: Filtering list
+2013-05-03 15:04:22.364000	[DEBUG]: list2:['1', '2', 'exec', 'spike', 'telport', '_cleean', '_deco']
+2013-05-03 15:04:22.370000	[DEBUG]: Button Initilized
+2013-05-03 15:04:23.585000	[DEBUG]: right clicked
+2013-05-03 15:04:23.589000	[DEBUG]: Moving to 1
+2013-05-03 15:04:23.843000	[DEBUG]: right clicked
+2013-05-03 15:04:23.847000	[DEBUG]: Moving to 2
+2013-05-03 15:04:25.123000	[DEBUG]: selected level exec
+2013-05-03 15:04:25.321000	[*INFO]: Starting Main Game Engine
+2013-05-03 15:04:25.326000	[*DUMP]: python jtengine.py exec

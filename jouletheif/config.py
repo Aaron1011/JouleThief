@@ -1,5 +1,5 @@
 #Title:
-wintitle="Joule Thief INDEV001"
+wintitle="Joule Thief v0.2.1"
 #Set to true to enable debug logging:
 _debug=True;
 #Set file name to log to:

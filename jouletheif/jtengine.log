@@ -22,3 +22,111 @@
 2013-05-03 10:50:32.522000	[DEBUG]: Loading Level
 2013-05-03 10:50:32.524000	[DEBUG]: Excecuting: import lvl1 as lvl
 2013-05-03 10:50:32.528000	[DEBUG]: Passed assertions
+2013-05-03 13:13:59.372000	[DEBUG]: ==========================SESS_BR8K=============================
+2013-05-03 13:13:59.374000	[*INFO]: Loading
+2013-05-03 13:13:59.376000	[DEBUG]: Logging Initilized
+2013-05-03 13:13:59.378000	[DEBUG]: Importing Pygame
+2013-05-03 13:13:59.380000	[DEBUG]: Init Pygame
+2013-05-03 13:13:59.585000	[DEBUG]: Opening Window
+2013-05-03 13:13:59.622000	[*INFO]: Starting!
+2013-05-03 13:13:59.626000	[DEBUG]: Creating Player
+2013-05-03 13:13:59.631000	[DEBUG]: Setting Repeat
+2013-05-03 13:13:59.635000	[DEBUG]: Loading Level
+2013-05-03 13:13:59.638000	[DEBUG]: Excecuting: import lvl1 as lvl
+2013-05-03 13:13:59.655000	[DEBUG]: Passed assertions
+2013-05-03 14:40:29.897000	[DEBUG]: ==========================SESS_BR8K=============================
+2013-05-03 14:40:29.900000	[*INFO]: Loading
+2013-05-03 14:40:29.903000	[DEBUG]: Logging Initilized
+2013-05-03 14:40:29.906000	[DEBUG]: Importing Pygame
+2013-05-03 14:40:29.961000	[DEBUG]: Init Pygame
+2013-05-03 14:40:30.218000	[DEBUG]: Opening Window
+2013-05-03 14:40:30.259000	[*INFO]: Starting!
+2013-05-03 14:40:30.263000	[DEBUG]: Creating Player
+2013-05-03 14:40:30.268000	[DEBUG]: Setting Repeat
+2013-05-03 14:40:30.271000	[DEBUG]: Loading Level
+2013-05-03 14:40:30.274000	[DEBUG]: Excecuting: import lvl1 as lvl
+2013-05-03 14:40:30.294000	[DEBUG]: Passed assertions
+2013-05-03 14:42:30.988000	[DEBUG]: ==========================SESS_BR8K=============================
+2013-05-03 14:42:30.992000	[*INFO]: Loading
+2013-05-03 14:42:30.997000	[DEBUG]: Logging Initilized
+2013-05-03 14:42:31	[DEBUG]: Importing Pygame
+2013-05-03 14:42:31.004000	[DEBUG]: Init Pygame
+2013-05-03 14:42:31.358000	[DEBUG]: Opening Window
+2013-05-03 14:42:31.412000	[*INFO]: Starting!
+2013-05-03 14:42:31.417000	[DEBUG]: Creating Player
+2013-05-03 14:42:31.422000	[DEBUG]: Setting Repeat
+2013-05-03 14:42:31.428000	[DEBUG]: Loading Level
+2013-05-03 14:42:31.436000	[DEBUG]: Excecuting: import lvl1 as lvl
+2013-05-03 14:42:31.445000	[DEBUG]: Passed assertions
+2013-05-03 14:58:42.383000	[DEBUG]: ==========================SESS_BR8K=============================
+2013-05-03 14:58:42.388000	[*INFO]: Loading
+2013-05-03 14:58:42.392000	[DEBUG]: Logging Initilized
+2013-05-03 14:58:42.395000	[DEBUG]: Importing Pygame
+2013-05-03 14:58:42.397000	[DEBUG]: Init Pygame
+2013-05-03 14:58:42.605000	[DEBUG]: Opening Window
+2013-05-03 14:58:42.642000	[*INFO]: Starting!
+2013-05-03 14:58:42.645000	[DEBUG]: Creating Player
+2013-05-03 14:58:42.649000	[DEBUG]: Setting Repeat
+2013-05-03 14:58:42.651000	[DEBUG]: Loading Level
+2013-05-03 14:58:42.653000	[DEBUG]: Excecuting: import lvl1 as lvl
+2013-05-03 14:58:42.658000	[DEBUG]: Passed assertions
+2013-05-03 14:58:48.467000	[DEBUG]: ==========================SESS_BR8K=============================
+2013-05-03 14:58:48.472000	[*INFO]: Loading
+2013-05-03 14:58:48.476000	[DEBUG]: Logging Initilized
+2013-05-03 14:58:48.479000	[DEBUG]: Importing Pygame
+2013-05-03 14:58:48.482000	[DEBUG]: Init Pygame
+2013-05-03 14:58:48.698000	[DEBUG]: Opening Window
+2013-05-03 14:58:48.733000	[*INFO]: Starting!
+2013-05-03 14:58:48.736000	[DEBUG]: Creating Player
+2013-05-03 14:58:48.740000	[DEBUG]: Setting Repeat
+2013-05-03 14:58:48.744000	[DEBUG]: Loading Level
+2013-05-03 14:58:48.746000	[DEBUG]: Excecuting: import lvl2 as lvl
+2013-05-03 14:58:48.773000	[DEBUG]: Passed assertions
+2013-05-03 15:00:22.130000	[DEBUG]: ==========================SESS_BR8K=============================
+2013-05-03 15:00:22.133000	[*INFO]: Loading
+2013-05-03 15:00:22.136000	[DEBUG]: Logging Initilized
+2013-05-03 15:00:22.139000	[DEBUG]: Importing Pygame
+2013-05-03 15:00:22.141000	[DEBUG]: Init Pygame
+2013-05-03 15:00:22.348000	[DEBUG]: Opening Window
+2013-05-03 15:00:22.383000	[*INFO]: Starting!
+2013-05-03 15:00:22.387000	[DEBUG]: Creating Player
+2013-05-03 15:00:22.390000	[DEBUG]: Setting Repeat
+2013-05-03 15:00:22.397000	[DEBUG]: Loading Level
+2013-05-03 15:00:22.400000	[DEBUG]: Excecuting: import lvl_deco as lvl
+2013-05-03 15:00:22.416000	[DEBUG]: Passed assertions
+2013-05-03 15:02:10.393000	[DEBUG]: ==========================SESS_BR8K=============================
+2013-05-03 15:02:10.396000	[*INFO]: Loading
+2013-05-03 15:02:10.399000	[DEBUG]: Logging Initilized
+2013-05-03 15:02:10.402000	[DEBUG]: Importing Pygame
+2013-05-03 15:02:10.405000	[DEBUG]: Init Pygame
+2013-05-03 15:02:10.610000	[DEBUG]: Opening Window
+2013-05-03 15:02:10.649000	[*INFO]: Starting!
+2013-05-03 15:02:10.652000	[DEBUG]: Creating Player
+2013-05-03 15:02:10.656000	[DEBUG]: Setting Repeat
+2013-05-03 15:02:10.660000	[DEBUG]: Loading Level
+2013-05-03 15:02:10.662000	[DEBUG]: Excecuting: import lvl_deco as lvl
+2013-05-03 15:02:10.666000	[DEBUG]: Passed assertions
+2013-05-03 15:03:18.620000	[DEBUG]: ==========================SESS_BR8K=============================
+2013-05-03 15:03:18.623000	[*INFO]: Loading
+2013-05-03 15:03:18.627000	[DEBUG]: Logging Initilized
+2013-05-03 15:03:18.630000	[DEBUG]: Importing Pygame
+2013-05-03 15:03:18.633000	[DEBUG]: Init Pygame
+2013-05-03 15:03:18.834000	[DEBUG]: Opening Window
+2013-05-03 15:03:18.880000	[*INFO]: Starting!
+2013-05-03 15:03:18.884000	[DEBUG]: Creating Player
+2013-05-03 15:03:18.889000	[DEBUG]: Setting Repeat
+2013-05-03 15:03:18.894000	[DEBUG]: Loading Level
+2013-05-03 15:03:18.897000	[DEBUG]: Excecuting: import lvltelport as lvl
+2013-05-03 15:03:18.921000	[DEBUG]: Passed assertions
+2013-05-03 15:04:25.535000	[DEBUG]: ==========================SESS_BR8K=============================
+2013-05-03 15:04:25.539000	[*INFO]: Loading
+2013-05-03 15:04:25.543000	[DEBUG]: Logging Initilized
+2013-05-03 15:04:25.547000	[DEBUG]: Importing Pygame
+2013-05-03 15:04:25.549000	[DEBUG]: Init Pygame
+2013-05-03 15:04:25.757000	[DEBUG]: Opening Window
+2013-05-03 15:04:25.801000	[*INFO]: Starting!
+2013-05-03 15:04:25.805000	[DEBUG]: Creating Player
+2013-05-03 15:04:25.809000	[DEBUG]: Setting Repeat
+2013-05-03 15:04:25.815000	[DEBUG]: Loading Level
+2013-05-03 15:04:25.818000	[DEBUG]: Excecuting: import lvlexec as lvl
+2013-05-03 15:04:25.823000	[DEBUG]: Passed assertions
