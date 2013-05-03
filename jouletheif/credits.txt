@@ -3,7 +3,7 @@ Producer: Louis "Coffeeman" Goessling
 Programming Lead: Louis "Coffeeman" Goessling
 Programming: Kevin Moonen
 Art Lead: Aaron downs
-Art: Charlie Moonen, Elliot Higgins
+Art: Charlie Moonen, Elliot Higgins, Daniel Eichens
 Design Lead: Ned Watson
 Testing Lead: Joe Williams
 

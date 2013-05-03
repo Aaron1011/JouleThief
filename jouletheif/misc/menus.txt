@@ -1,0 +1,7 @@
+Main Menu:
+Start (Starts level 1)
+Level Select -> Level Select
+Store -> Store
+Exit -> Exits
+
+Level Select:

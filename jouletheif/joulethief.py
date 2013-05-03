@@ -200,7 +200,7 @@ def load_level(name):
     return loaded, lvl.setx, lvl.sety
 
 debug("Init Pygame")
-ltag=raw_input("Level tag: ")
+ltag=sys.argv[1]#raw_input("Level tag: ")
 pygame.init()
 debug("Opening Window")
 pygame.display.set_caption(wintitle)

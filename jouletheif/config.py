@@ -19,3 +19,8 @@ accelmax=30;
 if _debug:
     printloglevel=0;
     fileloglevel=0;
+
+call="python %.py"
+#call="*.exe"
+
+

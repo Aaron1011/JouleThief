@@ -35,3 +35,7 @@ joulethief/dist/**/*
 *.pyc
 **/buildto
 joulethief/buildto/**
+**/buildreq
+joulethief/buildreq/**
+**/distengine
+joulethief/distengine/**
