@@ -1,6 +1,6 @@
 from distutils.core import setup
 exec "import py2exe" #because eclipse gives this a warnining and that fucking bugs me
-print "BUILDING MENUS"
+print "BUILDING MENUS TARGET"
 setup(console=['jtmain.py', 'jtlevelselect.py', 'joulethief.py'],
       options={
                 "py2exe":{
@@ -13,7 +13,7 @@ setup(console=['jtmain.py', 'jtlevelselect.py', 'joulethief.py'],
                 }
         }
       )
-print "BUILDING ENGINE"
+print "BUILDING ENGINE TARGET"
 setup(console=['jtengine.py'], zipfile=None,
       options={
                 "py2exe":{

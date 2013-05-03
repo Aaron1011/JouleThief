@@ -1,6 +1,6 @@
 import os, shutil, zipfile, glob
 folder = 'dist'
-print "Cleaning"
+print "Cleaning..."
 for the_file in os.listdir(folder):
     file_path = os.path.join(folder, the_file)
     try:
@@ -17,25 +17,25 @@ for the_file in os.listdir(folder):
     except Exception, e:
         print e
 #shutil.rmtree("dist")
-print "Building"
-os.system("python builddep.py py2exe")
-print "Copying levels"
+print "Building Targets..."
+os.system("python builddep.py -q py2exe")
+print "Copying levels..."
 try:
     shutil.copytree("lvl/", "dist/lvl/")
 except Exception: print "Levels already copied!"
-print "Copying config"
+print "Copying config..."
 try:
     shutil.copy("config.py", "dist/config.py")
 except Exception: print "Config already copied!"
-print "Copying images"
+print "Copying images..."
 try:
     shutil.copytree("image/", "dist/image/")
 except Exception: print "Images already copied!"
-print "Cleaning build"
+print "Cleaning build..."
 shutil.rmtree('build')
-print "Removing TCL"
+print "Removing TCL..."
 shutil.rmtree('dist/tcl')
-print "Copying DLLs (and fonts)"
+print "Copying DLLs (and fonts)..."
 needed=os.listdir("buildreq")
 for i in needed: shutil.copy("buildreq/"+i, "dist/")
 #print "Copying fonts"
@@ -50,18 +50,18 @@ if raw_input("Do Zip? [Y]").upper()=="Y":
     print "Zipping..."
     os.system("del buildto/build.zip")
     myzip=zipfile.ZipFile('buildto/build.zip', 'w')
-    print "Zipping EXEs"
+    print "Zipping EXEs (and misc files)..."
     for i in glob.glob("dist/*.*"):
         myzip.write(i)
-    print "Zipping Levels"
+    print "Zipping Levels..."
     for i in glob.glob("dist/lvl/*.*"):
         myzip.write(i)
-    print "Zipping Images"
+    print "Zipping Images..."
     for i in glob.glob("dist/image/*.*"):
         myzip.write(i)
-    print "Zipping Extras"
+    print "Zipping Extras..."
     myzip.write("alpha_readme.txt")
     myzip.write("credits.txt")
-    print "Writing Zip"
+    print "Writing Zip..."
     myzip.close()
 raw_input("Done! (Press raw enter)")
