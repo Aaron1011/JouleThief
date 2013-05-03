@@ -45,7 +45,7 @@ f=open("dist/config.py",'a')
 f.write('call="%"')
 f.close()
 print "Copying engine into dist dir"
-shutil.copy("distengine/joulethief.exe", "dist/jouletheif.exe")
+shutil.copy("distengine/jtengine.exe", "dist/jtengine.exe")
 if raw_input("Do Zip? [Y]").upper()=="Y":
     print "Zipping..."
     os.system("del buildto/build.zip")

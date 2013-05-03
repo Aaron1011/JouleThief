@@ -29,7 +29,8 @@ def fail(message): log(message, 5)
 def playButtonCallback():
     pygame.quit()
     info("Starting Main Game (Level 1)")
-    os.system(call.replace("%", "jouletheif")+" 1")
+    dump(call.replace("%", "jtengine")+" 1")
+    os.system(call.replace("%", "jtengine")+" 1")
     raise SystemExit
 
 info("Starting JTMain")
@@ -43,7 +44,7 @@ debug("settitle")
 pygame.display.set_caption(wintitle)
 debug("set. making button")
 
-play_button=gui.Button(100,100,50,50, "Play!", playButtonCallback)
+play_button=gui.Button(100,100,50,25, "Play!", playButtonCallback)
 print "BACKBACKBACK"
 debug("Button Initilized")
 

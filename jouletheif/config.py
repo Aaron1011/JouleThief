@@ -3,7 +3,7 @@ wintitle="Joule Thief INDEV001"
 #Set to true to enable debug logging:
 _debug=True;
 #Set file name to log to:
-filename='joulethief.log';
+filename='jtengine.log';
 #Set movement amount/keyDown event:
 moveamount=3;
 #Set key repeat info:

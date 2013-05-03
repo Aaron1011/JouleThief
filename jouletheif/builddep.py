@@ -1,7 +1,7 @@
 from distutils.core import setup
 exec "import py2exe" #because eclipse gives this a warnining and that fucking bugs me
 print "BUILDING MENUS"
-setup(console=['jtmain.py'],
+setup(console=['jtmain.py', 'jtlevelselect.py', 'joulethief.py'],
       options={
                 "py2exe":{
                         "bundle_files":3,#1,
@@ -14,7 +14,7 @@ setup(console=['jtmain.py'],
         }
       )
 print "BUILDING ENGINE"
-setup(console=['joulethief.py'], zipfile=None,
+setup(console=['jtengine.py'], zipfile=None,
       options={
                 "py2exe":{
                         "bundle_files":1,#1,

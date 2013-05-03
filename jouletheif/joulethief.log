@@ -279,3 +279,32 @@
 2013-05-03 09:24:24.200000	[DEBUG]: Loading Level
 2013-05-03 09:24:24.203000	[DEBUG]: Excecuting: import lvl1 as lvl
 2013-05-03 09:24:24.208000	[DEBUG]: Passed assertions
+2013-05-03 10:38:03.341000	[DEBUG]: ==========================SESS_BR8K=============================
+2013-05-03 10:38:03.346000	[*INFO]: Loading
+2013-05-03 10:38:03.352000	[DEBUG]: Logging Initilized
+2013-05-03 10:38:03.358000	[DEBUG]: Importing Pygame
+2013-05-03 10:38:03.370000	[DEBUG]: Init Pygame
+2013-05-03 10:38:21.561000	[DEBUG]: ==========================SESS_BR8K=============================
+2013-05-03 10:38:21.566000	[*INFO]: Loading
+2013-05-03 10:38:21.569000	[DEBUG]: Logging Initilized
+2013-05-03 10:38:21.572000	[DEBUG]: Importing Pygame
+2013-05-03 10:38:21.576000	[DEBUG]: Init Pygame
+2013-05-03 10:38:21.777000	[DEBUG]: Opening Window
+2013-05-03 10:38:21.816000	[*INFO]: Starting!
+2013-05-03 10:38:21.821000	[DEBUG]: Creating Player
+2013-05-03 10:38:21.827000	[DEBUG]: Setting Repeat
+2013-05-03 10:38:21.830000	[DEBUG]: Loading Level
+2013-05-03 10:38:21.834000	[DEBUG]: Excecuting: import lvl1 as lvl
+2013-05-03 10:38:21.841000	[DEBUG]: Passed assertions
+2013-05-03 10:40:10.310000	[DEBUG]: ==========================SESS_BR8K=============================
+2013-05-03 10:40:10.314000	[*INFO]: Loading
+2013-05-03 10:40:10.317000	[DEBUG]: Logging Initilized
+2013-05-03 10:40:10.320000	[DEBUG]: Importing Pygame
+2013-05-03 10:40:10.322000	[DEBUG]: Init Pygame
+2013-05-03 10:40:10.559000	[DEBUG]: Opening Window
+2013-05-03 10:40:10.604000	[*INFO]: Starting!
+2013-05-03 10:40:10.609000	[DEBUG]: Creating Player
+2013-05-03 10:40:10.613000	[DEBUG]: Setting Repeat
+2013-05-03 10:40:10.616000	[DEBUG]: Loading Level
+2013-05-03 10:40:10.619000	[DEBUG]: Excecuting: import lvl1 as lvl
+2013-05-03 10:40:10.625000	[DEBUG]: Passed assertions
